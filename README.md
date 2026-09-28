@@ -25,3 +25,25 @@ Withinly is an AI-powered wellness platform designed for South Indian women aged
 ```bash
 npm install
 npm run dev
+```
+
+## Project Status
+
+🚀 MVP Development in Progress
+
+### Current Features
+- AI-powered nutrition recommendations
+- Personalized fitness planning
+- Wellness tracking
+- Supabase integration
+
+### Upcoming Features
+- Food image recognition
+- AI health insights
+- Progress analytics dashboard
+
+## Author
+
+**Manushri Kancharla**
+
+B.Tech CSE (AI) | Front-End Developer | AI Enthusiast
